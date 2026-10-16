@@ -1,0 +1,14 @@
+{
+  "name": "student-management-system-task2",
+  "version": "1.0.0",
+  "description": "Full-stack Student Management System - Task 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
